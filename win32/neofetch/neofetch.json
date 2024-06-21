@@ -2,7 +2,7 @@
   "pkg_name": "neofetch",
   "pkg_ver": "1.2.1",
   "pkg_weight": "75.8 KiB",
-  "pkg_os": "Win32",
+  "pkg_os": "win32",
   "pkg_creator": "nepnep39",
   "pkg_link": "https://github.com/nepnep39/neofetch-win"
 }

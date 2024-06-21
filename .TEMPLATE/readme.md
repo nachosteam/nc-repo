@@ -1,6 +1,6 @@
-## - "pkg_name": "PKG-NAME": package name to download
-## - "pkg_ver": "PKG-VER": package version
-## - "pkg_size": "PKG-COMPILED-SIZE": package size
-## - "pkg_os": "PKG-OS": OS to launch this pkg
-## - "pkg_creator": "PKG-CREATOR": original creator of package
-## - "pkg_link": "PKG-ORIGINAL-LINK": link to original repository
+## - "pkg_name": package name to download
+## - "pkg_ver": package version
+## - "pkg_size": package size
+## - "pkg_os": OS to launch this pkg
+## - "pkg_creator": original creator of package
+## - "pkg_link": link to original repository

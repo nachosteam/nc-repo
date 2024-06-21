@@ -1,7 +1,7 @@
 {
   "pkg_name": "neofetch",
   "pkg_ver": "7.1.0",
-  "pkg_weight": "369 kiB",
+  "pkg_size": "369 kiB",
   "pkg_os": "Unix",
   "pkg_creator": "dylanaraps",
   "pkg_link": "https://github.com/dylanaraps/neofetch"

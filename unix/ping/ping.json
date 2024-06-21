@@ -1,8 +1,8 @@
 {
   "pkg_name": "ping",
   "pkg_ver": "1.0.0",
-  "pkg_weight": "19.5 KiB",
-  "pkg_os": "Unix",
-  "pkg_creator": "EraserTeam",
-  "pkg_link": "https://forgejo.r2squad.ru/eraserteam/nc-repo"
+  "pkg_size": "19.5 KiB",
+  "pkg_os": "unix",
+  "pkg_creator": "NachosTeam",
+  "pkg_link": "https://github.com/nachosteam/nc-repo"
 }

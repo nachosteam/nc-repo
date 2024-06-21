@@ -1,7 +1,7 @@
 {
   "pkg_name": "PKG-NAME",
   "pkg_ver": "PKG-VER",
-  "pkg_weight": "PKG-COMPILED-WEIGHT",
+  "pkg_size": "PKG-COMPILED-SIZE",
   "pkg_os": "PKG-OS",
   "pkg_creator": "PKG-CREATOR",
   "pkg_link": "PKG-ORIGINAL-LINK"

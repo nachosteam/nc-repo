@@ -1,0 +1,8 @@
+{
+  "pkg_name": "weather",
+  "pkg_ver": "1.0.0",
+  "pkg_size": "44,5 KB",
+  "pkg_os": "win32",
+  "pkg_creator": "chubin",
+  "pkg_link": "https://github.com/chubin/wttr.in"
+}

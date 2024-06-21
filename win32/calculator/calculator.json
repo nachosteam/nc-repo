@@ -1,0 +1,8 @@
+{
+  "pkg_name": "calculator",
+  "pkg_ver": "1.12.2",
+  "pkg_size": "2.2 MiB",
+  "pkg_os": "win32",
+  "pkg_creator": "semka",
+  "pkg_link": "https://github.com/ultamortisa/cpp-Easy_Calc/"
+}

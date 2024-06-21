@@ -1,7 +1,7 @@
 {
   "pkg_name": "ping",
   "pkg_ver": "1.0.0",
-  "pkg_weight": "46 KiB",
+  "pkg_size": "46 KiB",
   "pkg_os": "Win32",
   "pkg_creator": "EraserTeam",
   "pkg_link": "https://forgejo.r2squad.ru/eraserteam/nc-repo"
